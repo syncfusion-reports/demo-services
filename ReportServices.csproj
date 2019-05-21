@@ -57,8 +57,8 @@
     <Reference Include="Syncfusion.DocIO.Base, Version=17.1450.0.38, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL">
       <HintPath>packages\Syncfusion.DocIO.AspNet.17.1.0.38\lib\net45\Syncfusion.DocIO.Base.dll</HintPath>
     </Reference>
-    <Reference Include="Syncfusion.Extensions.BarcodeCRI, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>packages\Syncfusion.Extensions.BarcodeCRI.4.1.0.14\lib\net45\Syncfusion.Extensions.BarcodeCRI.dll</HintPath>
+    <Reference Include="Syncfusion.Extensions.BarcodeCRI">
+      <HintPath>packages\Syncfusion.Extensions.BarcodeCRI.4.1.0.16\lib\net45\Syncfusion.Extensions.BarcodeCRI.dll</HintPath>
     </Reference>
     <Reference Include="Syncfusion.Licensing">
       <HintPath>packages\Syncfusion.Licensing.17.1.0.38\lib\net45\Syncfusion.Licensing.dll</HintPath>
@@ -72,11 +72,11 @@
     <Reference Include="Syncfusion.Presentation.Base, Version=17.1450.0.38, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL">
       <HintPath>packages\Syncfusion.Presentation.AspNet.17.1.0.38\lib\net45\Syncfusion.Presentation.Base.dll</HintPath>
     </Reference>
-    <Reference Include="Syncfusion.Reporting.Web" Version="4.1.0.16">
+    <Reference Include="Syncfusion.Reporting.Web">
       <HintPath>packages\Syncfusion.Reporting.Web.4.1.0.16\lib\net45\Syncfusion.Reporting.Web.dll</HintPath>
     </Reference>
-    <Reference Include="Syncfusion.Server.Base.Logger, Version=2.2.0.13, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL">
-      <HintPath>packages\Syncfusion.Extensions.BarcodeCRI.4.1.0.14\lib\net45\Syncfusion.Server.Base.Logger.dll</HintPath>
+    <Reference Include="Syncfusion.Server.Base.Logger">
+      <HintPath>packages\Syncfusion.Extensions.BarcodeCRI.4.1.0.16\lib\net45\Syncfusion.Server.Base.Logger.dll</HintPath>
     </Reference>
     <Reference Include="Syncfusion.SfBarcode.WPF, Version=17.1450.0.38, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL">
       <HintPath>packages\Syncfusion.SfBarcode.WPF.17.1.0.38\lib\net45\Syncfusion.SfBarcode.WPF.dll</HintPath>
