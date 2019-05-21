@@ -1,6 +1,6 @@
 # Syncfusion Reporting Services
 
-This Syncfusion Reporting Services repository contains the Services for the `Report Viewer` and `Report Designer` controls. We have built Reports demos and documentation samples using these services.
+This Syncfusion Reporting Services repository contains the ASP.NET MVC Services for the `Report Viewer` and `Report Designer` controls. We have built Reports demos and documentation samples using these services.
 
 This section guides you to use the Syncfusion Reporting Services in your applications.
 
