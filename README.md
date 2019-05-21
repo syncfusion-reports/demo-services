@@ -5,7 +5,7 @@ This Syncfusion Reporting Services repository contains the Services for the `Rep
 This section guides you to use the Syncfusion Reporting Services in your applications.
 
 * [Requirements to run the service](#requirements-to-run-the-service)
-* [Using the Reports Services](#using-the-reports-services)
+* [Using the Reporting Services](#using-the-reporting-services)
 * [Online Demos](#online-demos)
 * [Documentation](#documentation)
 * [License](#license)
