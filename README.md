@@ -44,7 +44,7 @@ Control | Service URL
 
 * Open the solution file `ReportsSamplesService.sln` in Visual Studio.
 
-* Press F5 or click the Run button in Visual Studio to launch the application.
+* Press `F5` or click the `Run` button in Visual Studio to launch the application.
 
 * Navigate to `http://localhost:{{Port No}}/Samples/ReportViewer.html` to test the Report Viewer service.
 
